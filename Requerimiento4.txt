@@ -1,0 +1,17 @@
+Participantes: Alberto, Ieltxu, Inma, Sara y Urtzi Ugarte.
+
+• Las conclusiones sobre la experiencia de trabajar con Git.
+Al principio, fue un poco difícil trabajar con Git, ya que teníamos que aprender los comandos de memoria. Sin embargo, una vez que dominamos los comandos, todo se volvió mucho más fácil. También tuvimos algunos problemas y conflictos que no supimos resolver de inmediato, lo que retrasó un poco el trabajo.
+
+• Fortalezas y debilidades encontradas durante el desarrollo de la acividad.
+Fortalezas: Facilidad para el control de versiones y para tener un historial de los cambios hechos.
+Debilidades: Tuvimos problemas al hacer git push a GitHub por conflictos en las ramas. Dificultad al hacer cosas hasta dominar bien los comandos.
+
+• Enlace al repositorio compartido en GitHub.
+https://github.com/UrtziUgarte/Repo1Actividad1
+
+• Explicación de problemas encontrados y soluciones aplicadas.
+Hubo un punto en el que no pudimos fusionar ramas y hacer push a GitHub debido a conflictos. Para solucionar esto tuvimos que crear otra rama llamada develop2 para evitar conflictos y poder seguir trabajando.
+
+• Conclusiones grupales.
+Al principio, cuando no dominabamos del todo bien el git, fue un proceso tedioso. Pero poco a poco fue mas fácil.
